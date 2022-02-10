@@ -6,7 +6,7 @@ Samples were prepared as follows: miRNeasy mini plus Qiagen, polyA selection, GA
 The RNA-seq workflow includes count quantification via salmon and R analysis via DESeq2.
 
 
-# Prepare the project folder and fastq files
+## Prepare the project folder and fastq files
 set Project folder:
 ```
 DIR=/path/to/Project_folder/Project_gatc_rna_ll100_s
@@ -26,7 +26,7 @@ ln -s /path/to/fastq_files/K-562_R2.fastq.gz .
 ```
 
 
-# Download salmon for pseudo-alignment and counting, prepare indexing
+## Download salmon for pseudo-alignment and counting, prepare indexing
 taken from: https://combine-lab.github.io/alevin-tutorial/2019/selective-alignment/
 ```
 # include salmon in your path:
@@ -59,7 +59,7 @@ EOF
 ```
 
 
-# Start pipeline, submit jobs to slurm
+## Start pipeline, submit jobs to slurm
 ```
 DIR=/path/to/Project_folder/Project_gatc_rna_ll100_s
 cd $DIR
@@ -84,7 +84,7 @@ done
 ```
 
 
-# Checking the job status, results, remove non-neccessary files
+## Checking the job status, results, remove non-neccessary files
 ```
 cd $DIR
 grep "Mapping rate" counts/*salmon/logs/*log
@@ -100,14 +100,14 @@ rm raw/*/*.3.out
 ```
 
 
-# Info on sequencing + mapping, star statistics
+## Info on sequencing + mapping, star statistics
 ```
 cd $DIR
 R --file="stats_seq.R"
 ```
 
 
-# DESeq2 analysis, normalisation
+## DESeq2 analysis, normalisation
 Before running this R script, create a file2sample.csv data with sample assignment. Furthermore download ensembl data for annnotation.
 ```
 R --file='analysis_deseq2.R' &> R_salmon.out &
