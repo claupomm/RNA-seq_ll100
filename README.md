@@ -1,5 +1,5 @@
 # RNA-seq_ll100
-The shell commands and skripts given serve for the RNA-seq analysis done for LL-100 cell lines, 100 leukemic and lymphoma cell lines + the normal cell line NC-NC. 
+The shell commands and scripts given serve for the RNA-seq analysis done for LL-100 cell lines, 100 leukemic and lymphoma cell lines + the normal cell line NC-NC. 
 
 Samples were prepared as follows: miRNeasy mini plus Qiagen, polyA selection, GATC library prep, mRNA-Seq, strand-specific fr-firststrand, reverse stranded, 2x151bp paired-end run, Illumina HiSeq2500.
 
@@ -28,8 +28,8 @@ ln -s /path/to/fastq_files/K-562_R2.fastq.gz .
 
 # Download salmon for pseudo-alignment and counting, prepare indexing
 taken from: https://combine-lab.github.io/alevin-tutorial/2019/selective-alignment/
-include salmon in your path:
 ```
+# include salmon in your path:
 export PATH=~/Programme/salmon-1.4.0_linux_x86_64/bin:$PATH
 
 # make salmon transcript index:
@@ -84,8 +84,6 @@ done
 ```
 
 
-
-
 # Checking the job status, results, remove non-neccessary files
 ```
 cd $DIR
@@ -107,4 +105,12 @@ rm raw/*/*.3.out
 cd $DIR
 R --file="stats_seq.R"
 ```
+
+
+# DESeq2 analysis, normalisation
+Before running this R script, create a file2sample.csv data with sample assignment. Furthermore download ensembl data for annnotation.
+```
+R --file='analysis_deseq2.R' &> R_salmon.out &
+```
+
 
