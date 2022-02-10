@@ -63,7 +63,7 @@ EOF
 ```
 DIR=/path/to/Project_folder/Project_gatc_rna_ll100_s
 cd $DIR
-mkdir star bam plots fastqc trim counts
+mkdir star bam plots fastqc tables trim counts
 export PATH=~/Programme/salmon-1.4.0_linux_x86_64/bin:$PATH
 SAMPLES=$(ls $DIR/raw/)
 
