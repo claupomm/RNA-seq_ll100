@@ -1,0 +1,102 @@
+sampleName,fileName,project,group,tumor_long
+DEL,DEL.counts,Project_gatc_rna_4,ALCL,Anaplastic large cell lymphoma
+SR-786,SR-786.counts,Project_gatc_rna_4,ALCL,Anaplastic large cell lymphoma
+SU-DHL-1,SU-DHL-1.counts,Project_gatc_rna_4,ALCL,Anaplastic large cell lymphoma
+SUP-M2,SUP-M2.counts,Project_gatc_rna_4,ALCL,Anaplastic large cell lymphoma
+F-36P,F-36P.counts,Project_gatc_rna_4,AML_ery,"Acute myeloid leukemia, erythroid"
+HEL,HEL.counts,Project_gatc_rna_4,AML_ery,"Acute myeloid leukemia, erythroid"
+OCI-M2,OCI-M2.counts,Project_gatc_rna_5,AML_ery,"Acute myeloid leukemia, erythroid"
+TF-1,TF-1.counts,Project_gatc_rna_5,AML_ery,"Acute myeloid leukemia, erythroid"
+CMK,CMK.counts,Project_gatc_rna_5,AML_mega,"Acute myeloid leukemia, megakaryocytic"
+ELF-153,ELF-153.counts,Project_gatc_rna_5,AML_mega,"Acute myeloid leukemia, megakaryocytic"
+M-07e,M-07e.counts,Project_gatc_rna_5,AML_mega,"Acute myeloid leukemia, megakaryocytic"
+MEGAL,MEGAL.counts,Project_gatc_rna_5,AML_mega,"Acute myeloid leukemia, megakaryocytic"
+MKPL-1,MKPL-1.counts,Project_gatc_rna_5,AML_mega,"Acute myeloid leukemia, megakaryocytic"
+UT-7,UT-7.counts,Project_gatc_rna_5,AML_mega,"Acute myeloid leukemia, megakaryocytic"
+ME-1,ME-1.counts,Project_gatc_rna_4,AML_mono,"Acute myeloid leukemia, monocytic"
+MOLM-13,MOLM-13.counts,Project_gatc_rna_2,AML_mono,"Acute myeloid leukemia, monocytic"
+MONO-MAC-6,MONO-MAC-6.counts,Project_gatc_rna_4,AML_mono,"Acute myeloid leukemia, monocytic"
+MUTZ-3,MUTZ-3.counts,Project_gatc_rna_5,AML_mono,"Acute myeloid leukemia, monocytic"
+THP-1,THP-1.counts,Project_gatc_rna_4,AML_mono,"Acute myeloid leukemia, monocytic"
+U-937,U-937.counts,Project_gatc_rna_4,AML_mono,"Acute myeloid leukemia, monocytic"
+EOL-1,EOL-1.counts,Project_gatc_rna_4,AML_myelo,"Acute myeloid leukemia, myelocytic"
+HL-60,HL-60.counts,Project_gatc_rna_2,AML_myelo,"Acute myeloid leukemia, myelocytic"
+KASUMI-1,KASUMI-1.counts,Project_gatc_rna_0,AML_myelo,"Acute myeloid leukemia, myelocytic"
+KG-1,KG-1.counts,Project_gatc_rna_4,AML_myelo,"Acute myeloid leukemia, myelocytic"
+NB-4,NB-4.counts,Project_gatc_rna_2,AML_myelo,"Acute myeloid leukemia, myelocytic"
+OCI-AML3,OCI-AML3.counts,Project_gatc_rna_4,AML_myelo,"Acute myeloid leukemia, myelocytic"
+SKNO-1,SKNO-1.counts,Project_gatc_rna_5,AML_myelo,"Acute myeloid leukemia, myelocytic"
+BJAB,BJAB.counts,Project_gatc_rna_1,BL_B-ALL,Burkitt lymphoma / B-acute lymphoblastic leukemia
+DAUDI,DAUDI.counts,Project_gatc_rna_1,BL_B-ALL,Burkitt lymphoma / B-acute lymphoblastic leukemia
+RAJI,RAJI.counts,Project_gatc_rna_1,BL_B-ALL,Burkitt lymphoma / B-acute lymphoblastic leukemia
+RAMOS,RAMOS.counts,Project_gatc_rna_1,BL_B-ALL,Burkitt lymphoma / B-acute lymphoblastic leukemia
+VAL,VAL.counts,Project_gatc_rna_1,BL_B-ALL,Burkitt lymphoma / B-acute lymphoblastic leukemia
+BV-173,BV-173.counts,Project_gatc_rna_1,CML_lympho_BC,"Chronic myeloid leukemia, lymphoid blast crisis"
+CML-T1,CML-T1.counts,Project_gatc_rna_5,CML_lympho_BC,"Chronic myeloid leukemia, lymphoid blast crisis"
+NALM-1,NALM-1.counts,Project_gatc_rna_5,CML_lympho_BC,"Chronic myeloid leukemia, lymphoid blast crisis"
+TK-6,TK-6.counts,Project_gatc_rna_5,CML_lympho_BC,"Chronic myeloid leukemia, lymphoid blast crisis"
+EM-2,EM-2.counts,Project_gatc_rna_5,CML_myelo_BC,"Chronic myeloid leukemia, myeloid blast crisis"
+K-562,K-562.counts,Project_gatc_rna_0,CML_myelo_BC,"Chronic myeloid leukemia, myeloid blast crisis"
+KCL-22,KCL-22.counts,Project_gatc_rna_5,CML_myelo_BC,"Chronic myeloid leukemia, myeloid blast crisis"
+KU-812,KU-812.counts,Project_gatc_rna_2,CML_myelo_BC,"Chronic myeloid leukemia, myeloid blast crisis"
+LAMA-84,LAMA-84.counts,Project_gatc_rna_5,CML_myelo_BC,"Chronic myeloid leukemia, myeloid blast crisis"
+MOLM-20,MOLM-20.counts,Project_gatc_rna_5,CML_myelo_BC,"Chronic myeloid leukemia, myeloid blast crisis"
+NU-DHL-1,NU-DHL-1.counts,Project_gatc_rna_1,DLBCL_ABC,"Diffuse large B-cell lymphoma, activated B-cell"
+OCI-LY3,OCI-LY3.counts,Project_gatc_rna_3,DLBCL_ABC,"Diffuse large B-cell lymphoma, activated B-cell"
+RI-1,RI-1.counts,Project_gatc_rna_3,DLBCL_ABC,"Diffuse large B-cell lymphoma, activated B-cell"
+U-2932,U-2932.counts,Project_gatc_rna_3,DLBCL_ABC,"Diffuse large B-cell lymphoma, activated B-cell"
+U-2946,U-2946.counts,Project_gatc_rna_2,DLBCL_ABC,"Diffuse large B-cell lymphoma, activated B-cell"
+DOHH-2,DOHH-2.counts,Project_gatc_rna_2,DLBCL_GCB,"Diffuse large B-cell lymphoma, germinal center B-cell"
+OCI-LY19,OCI-LY19.counts,Project_gatc_rna_2,DLBCL_GCB,"Diffuse large B-cell lymphoma, germinal center B-cell"
+OCI-LY7,OCI-LY7.counts,Project_gatc_rna_2,DLBCL_GCB,"Diffuse large B-cell lymphoma, germinal center B-cell"
+SU-DHL-4,SU-DHL-4.counts,Project_gatc_rna_2,DLBCL_GCB,"Diffuse large B-cell lymphoma, germinal center B-cell"
+SU-DHL-6,SU-DHL-6.counts,Project_gatc_rna_2,DLBCL_GCB,"Diffuse large B-cell lymphoma, germinal center B-cell"
+WSU-DLCL2,WSU-DLCL2.counts,Project_gatc_rna_2,DLBCL_GCB,"Diffuse large B-cell lymphoma, germinal center B-cell"
+BONNA-12,BONNA-12.counts,Project_gatc_rna_2,HCL,Hairy cell leukemia
+HAIR-M,HAIR-M.counts,Project_gatc_rna_2,HCL,Hairy cell leukemia
+HC-1,HC-1.counts,Project_gatc_rna_2,HCL,Hairy cell leukemia
+HDLM-2,HDLM-2.counts,Project_gatc_rna_1,HL,Hodgkin lymphoma
+KM-H2,KM-H2.counts,Project_gatc_rna_4,HL,Hodgkin lymphoma
+L-1236,L-1236.counts,Project_gatc_rna_3,HL,Hodgkin lymphoma
+L-428,L-428.counts,Project_gatc_rna_3,HL,Hodgkin lymphoma
+SUP-HD1,SUP-HD1.counts,Project_gatc_rna_3,HL,Hodgkin lymphoma
+DERL-7,DERL-7.counts,Project_gatc_rna_2,mature_T,Mature T-malignancy
+HH,HH.counts,Project_gatc_rna_3,mature_T,Mature T-malignancy
+MOTN-1,MOTN-1.counts,Project_gatc_rna_4,mature_T,Mature T-malignancy
+GRANTA-519,GRANTA-519.counts,Project_gatc_rna_3,MCL,Mantle cell lymphoma
+JEKO-1,JEKO-1.counts,Project_gatc_rna_2,MCL,Mantle cell lymphoma
+JVM-2,JVM-2.counts,Project_gatc_rna_2,MCL,Mantle cell lymphoma
+MINO,MINO.counts,Project_gatc_rna_4,MCL,Mantle cell lymphoma
+REC-1,REC-1.counts,Project_gatc_rna_3,MCL,Mantle cell lymphoma
+KMS-12-BM,KMS-12-BM.counts,Project_gatc_rna_4,MM_PCL,"Multiple myeloma, plasma cell leukemia"
+L-363,L-363.counts,Project_gatc_rna_3,MM_PCL,"Multiple myeloma, plasma cell leukemia"
+LP-1,LP-1.counts,Project_gatc_rna_3,MM_PCL,"Multiple myeloma, plasma cell leukemia"
+OPM-2,OPM-2.counts,Project_gatc_rna_2,MM_PCL,"Multiple myeloma, plasma cell leukemia"
+RPMI-8226,RPMI-8226.counts,Project_gatc_rna_3,MM_PCL,"Multiple myeloma, plasma cell leukemia"
+U-266,U-266.counts,Project_gatc_rna_3,MM_PCL,"Multiple myeloma, plasma cell leukemia"
+SET-2,SET-2.counts,Project_gatc_rna_5,MPN,Myeloproliferative neoplasm
+KHYG-1,KHYG-1.counts,Project_gatc_rna_4,NK,Natural killer malignancy
+NK-92,NK-92.counts,Project_gatc_rna_1,NK,Natural killer malignancy
+YT,YT.counts,Project_gatc_rna_4,NK,Natural killer malignancy
+NC-NC,NC-NC.counts,Project_gatc_rna_5,B-LCL,normal control
+BC-3,BC-3.counts,Project_gatc_rna_2,PEL,Primary effusion lymphoma
+BCBL-1,BCBL-1.counts,Project_gatc_rna_3,PEL,Primary effusion lymphoma
+CRO-AP2,CRO-AP2.counts,Project_gatc_rna_3,PEL,Primary effusion lymphoma
+CRO-AP5,CRO-AP5.counts,Project_gatc_rna_1,PEL,Primary effusion lymphoma
+HG-3,HG-3.counts,Project_gatc_rna_1,CLL_PLL,Chronic lymphocytic leukemia / prolymphocytic leukemia
+JVM-13,JVM-13.counts,Project_gatc_rna_1,CLL_PLL,Chronic lymphocytic leukemia / prolymphocytic leukemia
+JVM-3,JVM-3.counts,Project_gatc_rna_1,CLL_PLL,Chronic lymphocytic leukemia / prolymphocytic leukemia
+MEC-1,MEC-1.counts,Project_gatc_rna_1,CLL_PLL,Chronic lymphocytic leukemia / prolymphocytic leukemia
+PGA-1,PGA-1.counts,Project_gatc_rna_1,CLL_PLL,Chronic lymphocytic leukemia / prolymphocytic leukemia
+U-2940,U-2940.counts,Project_gatc_rna_4,PMBL,Primary mediastinal B-cell lymphoma
+697,697.counts,Project_gatc_rna_1,pre-B-ALL,B-cell precursor / pre-B-acute lymphoblastic leukemia
+KOPN-8,KOPN-8.counts,Project_gatc_rna_1,pre-B-ALL,B-cell precursor / pre-B-acute lymphoblastic leukemia
+NALM-6,NALM-6.counts,Project_gatc_rna_1,pre-B-ALL,B-cell precursor / pre-B-acute lymphoblastic leukemia
+REH,REH.counts,Project_gatc_rna_1,pre-B-ALL,B-cell precursor / pre-B-acute lymphoblastic leukemia
+SEM,SEM.counts,Project_gatc_rna_1,pre-B-ALL,B-cell precursor / pre-B-acute lymphoblastic leukemia
+CCRF-CEM,CCRF-CEM.counts,Project_gatc_rna_3,T-ALL_TLL,T-acute lymphoblastic leukemia / T-lymphoblastic lymphoma
+DND-41,DND-41.counts,Project_gatc_rna_3,T-ALL_TLL,T-acute lymphoblastic leukemia / T-lymphoblastic lymphoma
+HPB-ALL,HPB-ALL.counts,Project_gatc_rna_3,T-ALL_TLL,T-acute lymphoblastic leukemia / T-lymphoblastic lymphoma
+JURKAT,JURKAT.counts,Project_gatc_rna_2,T-ALL_TLL,T-acute lymphoblastic leukemia / T-lymphoblastic lymphoma
+MOLT-4,MOLT-4.counts,Project_gatc_rna_3,T-ALL_TLL,T-acute lymphoblastic leukemia / T-lymphoblastic lymphoma
+RPMI-8402,RPMI-8402.counts,Project_gatc_rna_3,T-ALL_TLL,T-acute lymphoblastic leukemia / T-lymphoblastic lymphoma
