@@ -1,5 +1,5 @@
 # RNA-seq_ll100
-The shell commands and scripts given serve for the RNA-seq analysis done for LL-100 cell lines, 100 leukemic and lymphoma cell lines + the normal cell line NC-NC (https://celldive.dsmz.de/rna/ll-100). 
+The shell commands and scripts given serve for the RNA-seq analysis done for LL-100 cell lines, 100 leukemic and lymphoma cell lines + the normal cell line NC-NC (data available via https://celldive.dsmz.de/rna/ll-100 and published here: https://f1000research.com/articles/11-420). 
 
 Samples were prepared as follows: miRNeasy mini plus Qiagen, polyA selection, GATC library prep, mRNA-Seq, strand-specific fr-firststrand, reverse stranded, 2x151bp paired-end run, Illumina HiSeq2500.
 
